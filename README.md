@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vero!</h1>
 <h3 align="center">A passionate full stack developer from Spain</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=veromarpe" alt="veromarpe" /></a> </p>
-
-- 🌱 I’m currently learning **Harvard CS50 and Samsung Dev Spain**
+- 🌱 I’m currently studying in **Harvard CS50 and Samsung Dev Spain**
 
 - 📫 How to reach me **https://www.linkedin.com/in/veronica-martinezz/**
 
