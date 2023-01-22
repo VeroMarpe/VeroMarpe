@@ -50,8 +50,5 @@ I’m currently on Harvard CS50 and Samsung Dev Spain.
 
 <br/>  
 
-
-<br />
-
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
