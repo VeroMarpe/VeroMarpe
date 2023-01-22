@@ -1,15 +1,7 @@
-<table><tr><td valign="top" width="50%">
-
-
-
-</td><td valign="top" width="50%">
-
-<div align="right">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="right" style="width: 100%" />
+<div align="center">
+<img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" align="center" height="" width="" />
 </div>  
-
-
-</td></tr></table>  
+  
 
 <br/>  
 
