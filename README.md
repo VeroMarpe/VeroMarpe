@@ -1,9 +1,9 @@
-## Hello Word! 👋, I'm Vero!  
+# Hello Word! 👋, I'm Vero!  
   
 
 
 
-### Glad to see you here!  
+## Glad to see you here!  
 I’m a full-stack developer student 👩‍💻 
 I’m currently on Harvard CS50 and Samsung Dev Spain.  
   
@@ -47,22 +47,6 @@ I’m currently on Harvard CS50 and Samsung Dev Spain.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VeroMarpe&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
 </td></tr></table>  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
 
 <br/>  
 
