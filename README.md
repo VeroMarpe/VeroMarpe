@@ -4,8 +4,7 @@
 
 
 ### Glad to see you here!  
-I’m a full-stack developer student 👩‍💻 
-I’m currently on Harvard CS50 and Samsung Dev Spain.  
+I’m a Jr. Full-Stack Developer 👩‍💻  
   
 
 <a href="https://www.linkedin.com/in/veronica-martinezz/" target="_blank">
