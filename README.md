@@ -4,7 +4,7 @@
 
 
 ### Glad to see you here!  
-I’m a Jr. Full-Stack Developer 👩‍💻  
+I’m a AI Developer 👩‍💻  
   
 
 <a href="https://www.linkedin.com/in/veronica-martinezz/" target="_blank">
